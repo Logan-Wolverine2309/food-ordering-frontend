@@ -1,0 +1,64 @@
+export const topMeels=[
+   
+    {
+        image:"https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg?auto=compress&cs=tinysrgb&w=600",
+        title:"Pizza"
+    },
+    {
+
+      image:"https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=600",
+      title:"Chicken"
+    },
+    {
+        image:"https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&w=600",
+        title:"Pasta"
+    },
+    {
+        image:"https://images.pexels.com/photos/1527603/pexels-photo-1527603.jpeg?auto=compress&cs=tinysrgb&w=600",
+        title:"Italian"
+    },
+    {
+        image:"https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress&cs=tinysrgb&w=600",
+        title:"Dessert"
+    },
+    {
+        image:"https://media.istockphoto.com/id/1292563627/photo/assorted-south-indian-breakfast-foods-on-wooden-background-ghee-dosa-uttappam-medhu-vada.jpg?s=2048x2048&w=is&k=20&c=jSUKc_lszNyaCpDzL-yU1nvcMNC7nECgPgKv_ndaYYs=",
+        title:"South Indian",
+    },
+    {
+        image:"https://media.istockphoto.com/id/1250567402/photo/table-top-view-of-indian-food.jpg?s=2048x2048&w=is&k=20&c=8SbYZqaHc6dlRGvWFaBIoRfefupWUQ7Z3kj9A-TTKdc=",
+        title:"Indian Food"
+    },
+    {
+        image:"https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        title:"Coffee"
+    },
+    {
+        image:"https://images.pexels.com/photos/36756/food-pizza-roll-baked.jpg?auto=compress&cs=tinysrgb&w=600",
+        title:"Snacks"
+    },
+    {
+        image:"https://images.pexels.com/photos/1647163/pexels-photo-1647163.jpeg?auto=compress&cs=tinysrgb&w=600",
+        title:"SandWiches"
+    },
+    {
+        image:"https://images.pexels.com/photos/688802/pexels-photo-688802.jpeg?auto=compress&cs=tinysrgb&w=600",
+        title:"Soup"
+    },
+    {
+        image:"https://images.pexels.com/photos/4439740/pexels-photo-4439740.jpeg?auto=compress&cs=tinysrgb&w=600",
+        title:"Biriyani"
+    },
+    {
+        image:"https://media.istockphoto.com/id/1480296623/photo/aiburo-bhat-ritual-food-arrangement-bengali-wedding-ritual.jpg?s=1024x1024&w=is&k=20&c=wzmOraH65Z3pvlh9LfivCXzGvK_GfNQ4zXMuFw0ZRwE=",
+        title:"Bengali-Food"
+    },
+    {
+        image:"https://images.pexels.com/photos/1108117/pexels-photo-1108117.jpeg?auto=compress&cs=tinysrgb&w=600",
+        title:"Burgers"
+    },
+    {
+        image:"https://images.pexels.com/photos/544961/pexels-photo-544961.jpeg?auto=compress&cs=tinysrgb&w=600",
+        title:"Drinks"
+    },
+]
