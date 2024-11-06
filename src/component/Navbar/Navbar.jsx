@@ -52,8 +52,8 @@ export const Navbar = () => {
 
           {false?<Avatar sx={{ bgcolor: "white", color: pink.A400}}>J</Avatar>:
           <IconButton onClick={()=>
-          // navigate("/account/login")
-          setUser(!isUser)
+          navigate("/account/login")
+          // setUser(!isUser)
           }>
             <Person/>
           </IconButton>}
@@ -75,6 +75,7 @@ export const Navbar = () => {
 
 
     </Box>
+    
    
       </>
   );

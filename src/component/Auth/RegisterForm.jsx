@@ -80,7 +80,7 @@ console.log("form values",values)
       <Typography variant='body2' align='center' sx={{mt:3}}>
           If you have an account already?
           <Button size='small' onClick={()=>navigate("/account/login")}>
-              register
+              Login
           </Button>
       </Typography>
 
